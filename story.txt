@@ -1,0 +1,11 @@
+enviar twitts/retwitts de otros usuarios
+enviar mensajes directos
+subir videos cortos
+seguir a personas
+dar me gustas
+ver notificaciones
+perfil
+buscar 
+tendencias
+
+el objetivo principal es mandar twitts y retwitts
